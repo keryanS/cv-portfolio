@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Open-Sans";
+  src: url("../../../police/OpenSans-Regular.ttf");
+}
+.body-projet1 {
+  margin: 0;
+  background-color: #f3f5f7;
+}
+
+.inner-spacer {
+  height: 50px;
+}
+
+.scholarme-page {
+  font-family: "Open-Sans";
+  background-color: #FFF;
+  height: 800px;
+  width: 1200px;
+  margin: auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+}
+
+nav {
+  font-size: 0.8rem;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li {
+  margin-right: 20px;
+}
+
+a {
+  color: grey;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.section-central {
+  display: flex;
+}
+
+.footer {
+  display: flex;
+}
+
+/*# sourceMappingURL=styleprojet1.css.map */

@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("../../fonts/Poppins-Regular.otf");
+}
+
+body {
+  font-family: "Poppins";
+}
+
+.btn-return {
+  color: black;
+  text-decoration: none; 
+  font-size: 1.3rem;
+  margin-top: 20px;
+}
+
+.div {
+  margin-top: 8%;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+body.dark {
+  background-color: black;
+  color: white;
+}
+
+a.dark {
+  background-color: black;
+  color: white;
+}

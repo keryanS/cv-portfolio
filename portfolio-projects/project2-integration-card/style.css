@@ -1,0 +1,113 @@
+@font-face {
+  font-family: "Poppin";
+  src: url("../../fonts/Poppins-Regular.otf");
+}
+
+.body-projet2 {
+  margin: 0;
+  background: linear-gradient(326deg, rgb(4, 55, 52) , rgb(1, 190, 174) 74%, rgb(103, 142, 124));
+}
+
+.button-back{
+  font-family: "Poppin";
+  font-size: 1.3rem;
+  margin-left: 30px;
+}
+
+.carte-uni {
+  border-radius: 20px;
+  font-family: "Poppin";
+  background-color: #FFF;
+  height: 800px;
+  width: 1200px;
+  margin: auto; 
+}
+
+.inner-spacer {
+  height: 10px;
+}
+
+.inner-spacer2 {
+  height: 50px;
+}
+
+.logo-uni {
+  height: 30px;
+  max-height: 100%;
+  width: auto;
+  margin: 70px 0 0 70px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 50px 40px 0 70px;
+}
+
+.bloc-h1 {
+  width: 520px;
+}
+
+p {
+  color: rgb(129, 128, 135);
+  font-size: 0.8rem;
+}
+
+.bloc-p {
+  width: 330px;
+  margin: 70px 30px 0 20px;
+}
+
+.section-principale {
+  display: flex;
+}
+
+ul {
+  list-style:none;
+}
+
+a{
+  color: #000;
+}
+
+a:link 
+{ 
+ text-decoration:none; 
+} 
+
+nav {
+  margin: 70px 0 0 10px;
+}
+
+.button-utiliser {
+  padding: 5px;
+  border-radius: 5px;
+  background-color: #000;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.fleche {
+  height: 12px;
+  max-height: 100%;
+  width: auto;
+  margin-left: 5px;
+}
+
+.button-utiliser__color {
+  color: #FFF;
+}
+
+.button-savoir {
+  padding: 3px;
+  border: solid;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.footer-banniere {
+  border-radius: 0 0 20px 20px;
+  margin-top: 85px;
+  height: 380px;
+  max-height: 100%;
+  width: auto;
+}
