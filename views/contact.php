@@ -41,17 +41,6 @@
           </div>
         </div>
 
-        <script type="text/javascript" src="../vanilla-tilt.js"></script>
-        <script> 
-          VanillaTilt.init(document.querySelectorAll(".card__contact"),{
-		      max: 25,
-		      speed: 400,
-          glare: true,
-          "max-glare": 1,
-	        });
-        </script>
-               
-
         <?php include("../php/footer.php"); ?>
 
       </div>
